@@ -1,0 +1,90 @@
+.colour{
+    background-color: black;
+    margin: 0px;
+    padding: 16px;
+    width: 100%;
+    
+    
+    
+
+
+    
+    
+}
+   
+.lg{
+    background-color:wheat
+    
+
+}
+.sc{
+    background-color: black;
+   padding-top: 4rem;
+}
+.Q{
+    background-color:brown;
+
+     padding-top: 8rem;
+   
+}
+.galle{
+    background-color:brown;
+    
+}
+.im{
+    background-color: gray;
+    display: inline-block;
+    margin-left: 3rem;
+    
+        -webkit-transition: all 1s ease; 
+        -moz-transition: all 1s ease;  
+        -ms-transition: all 1s ease; 
+        -o-transition: all 1s ease; 
+        transition: all 1s ease;
+    }
+    
+    
+
+
+.im:hover{
+    
+   
+        -webkit-transform:scale(1.25); 
+        -moz-transform:scale(1.25); 
+        -ms-transform:scale(1.25); 
+        -o-transform:scale(1.25); 
+         transform:scale(1.25);
+    }
+    .b{
+        background-color: black;
+        padding-top: 4rem;
+    }
+.bf{
+    
+    background-color: brown;
+}
+   .f{
+       background-color: black;
+       border-bottom: 5px solid white;
+       padding-top: 4rem;
+   }
+   .s{
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+   }
+  .s:hover{
+      opacity: .5;
+      color: black;
+  }
+  .u{
+      color:black
+  }
+  #map {
+    height: 400px;  /* The height is 400 pixels */
+    width: 100%;  /* The width is the width of the web page */
+    color: white;
+   }
